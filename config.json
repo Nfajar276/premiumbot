@@ -1,15 +1,8 @@
 {
-  "ownerNumber": "62855xxx@s.whatsapp.net",
-  "botName": "Baby Bot",
-  "ownerName": "Ramlan ID",
-  "footer": "*2022 © BABYBOT*",
-  "apikey": "BELI ATUH",
+  "ownerNumber": "6281211917057@s.whatsapp.net",
+  "botName": "PremiumBot",
+  "ownerName": "Dappa",
+  "footer": "*2022 © PremiumBot*",
   "pathThumb": "./media/logo.jpg",
-  "sessionName": "ramlanid",
-  "limitCount": 30,
-  "gamewaktu": 60,
-  "gcount": {
-    "prem": 50,
-    "user": 20
-  }
+  "sessionName": "ramlanid"
 }
